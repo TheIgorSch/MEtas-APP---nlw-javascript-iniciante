@@ -15,3 +15,24 @@ Linguagem de programação
 -coletar dados
 -processar dados
 -apresentar dados
+
+# tipos de dados
+- [x]strings (textos): "" ''
+- [x]numbers
+- [x]functions
+- [x]bolean
+
+# operadores
+
+- [x]Operadores de atribuiçao de valor
+- [x]operador de concatenação
+
+# estruturas de dados:
+## arrays:
+uma lista com qualquer tipo de dados
+
+### objetos
+- [x] Atributos e metodos
+- []criacao e manupulaçao de objetos
+- [] acesso a propriedades de objetos
+
