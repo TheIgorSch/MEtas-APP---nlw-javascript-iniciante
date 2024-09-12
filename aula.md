@@ -24,8 +24,9 @@ Linguagem de programação
 
 # operadores
 
-- [x]Operadores de atribuiçao de valor
-- [x]operador de concatenação
+- [x]Operadores de atribuiçao de valor =
+- [x]operador de concatenação +
+- [x]operador de comparação: ==, !=, <, >, <=, =>.
 
 # estruturas de dados:
 ## arrays:
@@ -43,3 +44,13 @@ uma lista com qualquer tipo de dados
 # condicionais
 
 - [x] switch
+- [x] if e else
+
+## modulos em node.js
+
+- [x] importaçao de modulos
+- [x] bibliotecca "inquirer" para cirr prompts interativos
+
+## programaçao assincrona e promises:
+
+- [x]uso de funcoes assincronas
