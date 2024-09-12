@@ -4,12 +4,12 @@ Linguagem de programação
 
 # Peças de uma linguagem
 - comentários
-- declaraçcao de variaveis
-- operadores
-- tipos de dados
-- estrutura de dados
-- controle de fluxo
-- estrutura de repetição
+- declaraçcao de variaveis (const, let)
+- operadores (atribuiçao, concatenaçao, matematico, logico)
+- tipos de dados (string, number, boolean)
+- estrutura de dados (functions, objetcs, array)
+- controle de fluxo (if/else)
+- estrutura de repetição (for, while)
 
 # fases de resoluçao de problema
 -coletar dados
@@ -32,7 +32,7 @@ Linguagem de programação
 # estruturas de dados:
 ## arrays:
 - [x] uma lista com qualquer tipo de dados
-- [x] metodos de array: {find, forEach, filter}: HOF (higher order functions)
+- [x] metodos de array: {find, forEach, filter, map}: HOF (higher order functions)
 
 ### objetos
 - [x] Atributos e metodos
@@ -52,6 +52,12 @@ Linguagem de programação
 
 - [x] importaçao de modulos
 - [x] bibliotecca "inquirer" para cirr prompts interativos
+- [x] File system
+
+## JSON 
+- [x] javascript object notation
+- [x] JSON.parse(): transforma de json para js
+- [x] JSON.stringify(): transforma de JS para JSON
 
 ## programaçao assincrona e promises:
 

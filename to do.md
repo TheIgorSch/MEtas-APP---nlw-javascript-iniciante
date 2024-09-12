@@ -1,7 +1,7 @@
 -[x]criar metas 
 -[x]listar metas
-  -completas
-  -abertas
--marcar e desmarcar conclusao
--remover meta
--sistema de mensagem
+  -[x]completas
+  -[x]abertas
+-[x]marcar e desmarcar conclusao
+-[x]deletar meta
+-[x]persistir dados
