@@ -1,5 +1,5 @@
--criar metas 
--listar metas
+-[x]criar metas 
+-[x]listar metas
   -completas
   -abertas
 -marcar e desmarcar conclusao

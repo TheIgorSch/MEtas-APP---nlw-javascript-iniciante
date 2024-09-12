@@ -27,15 +27,17 @@ Linguagem de programação
 - [x]Operadores de atribuiçao de valor =
 - [x]operador de concatenação +
 - [x]operador de comparação: ==, !=, <, >, <=, =>.
+- [x]spread operator: ...
 
 # estruturas de dados:
 ## arrays:
-uma lista com qualquer tipo de dados
+- [x] uma lista com qualquer tipo de dados
+- [x] metodos de array: {find, forEach, filter}: HOF (higher order functions)
 
 ### objetos
 - [x] Atributos e metodos
-- []criacao e manupulaçao de objetos
-- [] acesso a propriedades de objetos
+- [x]criacao e manupulaçao de objetos
+- [x] acesso a propriedades de objetos
 
 # estrutura de repetiçao
 
